@@ -1,0 +1,3 @@
+[submodule "libfta"]
+	path = libfta
+	url = https://github.com/cpierce1/get_next_line/libft
